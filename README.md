@@ -6,8 +6,8 @@
 
 - **Lenguajes:** Python, SQL
 - **Herramientas:** Excel avanzado, Power BI, Jupyter Notebook
-- **Análisis:** Cohort Analysis, Forecasting, KPI Tracking
-- **Visualización:** Matplotlib, Seaborn, Power BI
+- **Análisis:** Cohort Analysis, Forecasting, KPI Tracking, A/B Test
+- **Visualización:** Matplotlib, Seaborn, Power BI, 
 
 ## 📂 Proyectos Destacados
 
